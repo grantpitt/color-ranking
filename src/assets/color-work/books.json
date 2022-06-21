@@ -1,0 +1,246 @@
+{
+  "data": {
+    "getBooks": [
+      {
+        "id": "pantoneFhiMetallicShimmersTpm",
+        "title": "FHI Metallic Shimmers TPM",
+        "group": "Pantone Fashion, Home + Interiors (FHI) System",
+        "sortIndex": 13,
+        "url": "https://www.pantone.com/fashion-home-interiors-fhi-metallic-shimmers-color-guide",
+        "highlighted": null,
+        "info": {
+          "en": {
+            "target": "Fashion and Industrial Design",
+            "description": "Silver nitro-cellulose coating on paper",
+            "group": "Fashion, Home + Interiors (FHI) System"
+          }
+        }
+      },
+      {
+        "id": "pantoneColorBridgeCoated",
+        "title": "Color Bridge Coated",
+        "group": "Pantone Matching System® (PMS™) for Graphics",
+        "sortIndex": 3,
+        "url": "https://www.pantone.com/color-bridge-guide-coated",
+        "highlighted": null,
+        "info": {
+          "en": {
+            "target": "Evaluating spot vs Process colors",
+            "description": "Spot Color and Process Ink on Coated Paper",
+            "group": "Pantone Matching System (PMS) for Graphics"
+          }
+        }
+      },
+      {
+        "id": "pantoneColorBridgeUncoated",
+        "title": "Color Bridge Uncoated",
+        "group": "Pantone Matching System® (PMS™) for Graphics",
+        "sortIndex": 4,
+        "url": "https://www.pantone.com/color-bridge-guide-uncoated",
+        "highlighted": null,
+        "info": {
+          "en": {
+            "target": "Evaluating spot vs Process colors",
+            "description": "Spot Color and Process Ink on Uncoated Paper",
+            "group": "Pantone Matching System (PMS) for Graphics"
+          }
+        }
+      },
+      {
+        "id": "pantonePastelsNeonsCoated",
+        "title": "Pastels & Neons Coated",
+        "group": "Pantone Matching System® (PMS™) for Graphics",
+        "sortIndex": 7,
+        "url": "https://www.pantone.com/pastels-neons-guide-coated-uncoated",
+        "highlighted": null,
+        "info": {
+          "en": {
+            "target": "Graphic Design",
+            "description": "Spot Color Pastel and Neon Ink on Coated Paper",
+            "group": "Pantone Matching System (PMS) for Graphics"
+          }
+        }
+      },
+      {
+        "id": "pantoneFhiPolyesterTsx",
+        "title": "FHI Polyester TSX",
+        "group": "Pantone Fashion, Home + Interiors (FHI) System",
+        "sortIndex": 12,
+        "url": "https://www.pantone.com/polyester-swatch-book",
+        "highlighted": null,
+        "info": {
+          "en": {
+            "target": "Fashion Design, Footwear, Soft Home",
+            "description": "Dye on polyester (synthetic) fabric",
+            "group": "Fashion, Home + Interiors (FHI) System"
+          }
+        }
+      },
+      {
+        "id": "pantoneSkinToneGuide",
+        "title": "Skin Tone Guide",
+        "group": "Other Pantone Libraries",
+        "sortIndex": 16,
+        "url": "https://www.pantone.com/pantone-skintone-guide",
+        "highlighted": null,
+        "info": {
+          "en": {
+            "target": "Health and Beauty",
+            "description": "110 Common Skin Tone Shades - Lacquer on Paper",
+            "group": "Other Pantone Systems"
+          }
+        }
+      },
+      {
+        "id": "pantoneCmykUncoated",
+        "title": "CMYK Uncoated",
+        "group": "Other Pantone Libraries",
+        "sortIndex": 15,
+        "url": "https://www.pantone.com/cmyk-guide-coated-uncoated",
+        "highlighted": null,
+        "info": {
+          "en": {
+            "target": "Graphic Design",
+            "description": "CMYK Process Ink on Uncoated Paper",
+            "group": "Other Pantone Systems"
+          }
+        }
+      },
+      {
+        "id": "pantoneCmykCoated",
+        "title": "CMYK Coated",
+        "group": "Other Pantone Libraries",
+        "sortIndex": 14,
+        "url": "https://www.pantone.com/cmyk-guide-coated-uncoated",
+        "highlighted": null,
+        "info": {
+          "en": {
+            "target": "Graphic Design",
+            "description": "CMYK Process Ink on Coated Paper",
+            "group": "Other Pantone Systems"
+          }
+        }
+      },
+      {
+        "id": "pantoneSolidCoated",
+        "title": "Formula Guide Coated",
+        "group": "Pantone Matching System® (PMS™) for Graphics",
+        "sortIndex": 1,
+        "url": "https://www.pantone.com/formula-guide-coated-uncoated",
+        "highlighted": true,
+        "info": {
+          "en": {
+            "target": "Graphic Design",
+            "description": "Spot Color Ink on Coated Paper",
+            "group": "Pantone Matching System (PMS) for Graphics"
+          }
+        }
+      },
+      {
+        "id": "pantoneFhiPaperTpg",
+        "title": "FHI Paper TPG",
+        "group": "Pantone Fashion, Home + Interiors (FHI) System",
+        "sortIndex": 10,
+        "url": "https://www.pantone.com/fashion-home-interiors-color-guide",
+        "highlighted": null,
+        "info": {
+          "en": {
+            "target": "Product Design",
+            "description": "Lacquer Coating on Paper",
+            "group": "Fashion, Home + Interiors (FHI) System"
+          }
+        }
+      },
+      {
+        "id": "pantoneExtendedGamutCoated",
+        "title": "Extended Gamut Coated",
+        "group": "Pantone Matching System® (PMS™) for Graphics",
+        "sortIndex": 5,
+        "url": "https://www.pantone.com/extended-gamut-coated-guide",
+        "highlighted": null,
+        "info": {
+          "en": {
+            "target": "Graphic Design",
+            "description": "CMYK + OGV Process Ink on Coated Paper",
+            "group": "Pantone Matching System (PMS) for Graphics"
+          }
+        }
+      },
+      {
+        "id": "pantoneFhCottonTcx",
+        "title": "FHI Cotton TCX",
+        "group": "Pantone Fashion, Home + Interiors (FHI) System",
+        "sortIndex": 9,
+        "url": "https://www.pantone.com/fashion-home-interiors-cotton-chip-set",
+        "highlighted": true,
+        "info": {
+          "en": {
+            "target": "Fashion, Textiles, Soft home",
+            "description": "Dye on Cotton Fabric",
+            "group": "Fashion, Home + Interiors (FHI) System"
+          }
+        }
+      },
+      {
+        "id": "pantoneSolidUncoated",
+        "title": "Formula Guide Uncoated",
+        "group": "Pantone Matching System® (PMS™) for Graphics",
+        "sortIndex": 2,
+        "url": "https://www.pantone.com/formula-guide-coated-uncoated",
+        "highlighted": null,
+        "info": {
+          "en": {
+            "target": "Graphic Design",
+            "description": "Spot Color Ink on Uncoated Paper",
+            "group": "Pantone Matching System (PMS) for Graphics"
+          }
+        }
+      },
+      {
+        "id": "pantonePastelsNeonsUncoated",
+        "title": "Pastels & Neons Uncoated",
+        "group": "Pantone Matching System® (PMS™) for Graphics",
+        "sortIndex": 8,
+        "url": "https://www.pantone.com/pastels-neons-guide-coated-uncoated",
+        "highlighted": null,
+        "info": {
+          "en": {
+            "target": "Graphic Design",
+            "description": "Spot Color Pastel and Neon Ink on Uncoated Paper",
+            "group": "Pantone Matching System (PMS) for Graphics"
+          }
+        }
+      },
+      {
+        "id": "pantoneFhNylonBrightsTn",
+        "title": "FHI Nylon Brights TN",
+        "group": "Pantone Fashion, Home + Interiors (FHI) System",
+        "sortIndex": 11,
+        "url": "https://www.pantone.com/nylon-brights-set",
+        "highlighted": null,
+        "info": {
+          "en": {
+            "target": "Fashion, Textiles, Athleisure",
+            "description": "Bright and Florescent Dyes on Nylon Fabric",
+            "group": "Fashion, Home + Interiors (FHI) System"
+          }
+        }
+      },
+      {
+        "id": "pantoneMetallicsSolidCoated",
+        "title": "Metallics Coated",
+        "group": "Pantone Matching System® (PMS™) for Graphics",
+        "sortIndex": 6,
+        "url": "https://www.pantone.com/metallic-chips-book",
+        "highlighted": null,
+        "info": {
+          "en": {
+            "target": "Graphic Design",
+            "description": "Metallic-effect Ink on Coated Paper",
+            "group": "Pantone Matching System (PMS) for Graphics"
+          }
+        }
+      }
+    ]
+  }
+}
